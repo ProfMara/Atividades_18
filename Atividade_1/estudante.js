@@ -1,0 +1,10 @@
+class Estudante {
+
+    constructor() {
+
+    }
+
+    exibir() {
+
+    }
+}
